@@ -13,7 +13,8 @@ Compilador Linguagem Própria
   * João Paulo Castro - 20070027
   
   ## Como executar:
-  ```print("uuuuuuuu")```
+  ```cd (caminho ate "T4)```
+  ```java -jar target\T4-1.0-SNAPSHOT-jar-with-dependencies.jar entrada.txt saida.txt```
   
   
  ## Linguagens usadas.
