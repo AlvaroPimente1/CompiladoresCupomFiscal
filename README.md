@@ -7,7 +7,7 @@ Compilador Linguagem Própria
   __Professor: Isaac__
   
   ## Integrantes
-  * Alvaro Augusto - 20070017
+  * Alvaro Augusto - 20070017 - Github: https://github.com/AlvaroPimente1
   * Reryson Augusto - 20070003
   * Rannery Carlos - 20070008
   * João Paulo Castro - 20070027
