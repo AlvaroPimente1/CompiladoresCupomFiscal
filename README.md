@@ -12,8 +12,8 @@ Compilador Linguagem Própria
   * Rannery Carlos - 20070008
   * João Paulo Castro - 20070027
   
-  ## Desenvolvimento.
-  * Visando uma interação entre usuário e servidor, tivemos a ideia de nos basear em um restaurante, tendo em vista que vários restaurantes hoje já utilizam tecnologia na hora de gerar pedidos para as mesas. Pensando nisso, desenvolvemos uma interação onde o garçom põe seu nome, anota o nome do cliente que efetuou o pedido, que prato foi pedido e o número da mesa.
+  ## Como executar:
+  ```print("uuuuuuuu")```
   
   
  ## Linguagens usadas.
