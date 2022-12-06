@@ -14,7 +14,7 @@ Compilador Linguagem Própria
   
   ## Como executar:
   ```cd (caminho ate "T4)```
-  <br>
+  <br><br>
   ```java -jar target\T4-1.0-SNAPSHOT-jar-with-dependencies.jar entrada.txt saida.txt```
   
   
