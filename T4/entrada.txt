@@ -1,0 +1,32 @@
+PRODUTOS: 
+
+carne vermelha = 20/kg
+carangueijo= 10/un
+pao de alho = 2/un
+peito de frango = 10/kg
+
+// verificacao semantica se o produto declarado acima tem imposto
+// verificacao semantica se o imposto nao é maior que 100%
+// verificacao semantica se o imposto nao é negativo
+IMPOSTOS:
+
+carne vermelha, pao de alho= 10%
+carangueijo= 10%
+peito de frango = 10%
+
+LOJA:
+NOME = Churrascada Juliet
+CNPJ = 47.222.333/0001-79
+
+
+NOTA:
+
+4 carne vermelha
+2 carangueijo// verificação semantica de preço unitário não poder ser valor real
+CPF 003.007.200-02
+
+NOTA:
+
+2 peito de frango
+5 carangueijo
+CPF 100.307.200-02
